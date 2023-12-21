@@ -6,7 +6,7 @@
 }
 .outer-box {
   width: 50%;
-  margin: 100px auto;
+  margin: 50px auto;
 }
 
 .center {
@@ -44,5 +44,10 @@
   border: 1px solid gray;
 }
 .width68 {
-  width: 70%;
+  width: 54%;
+  margin-left: 115px;
+}
+
+.boldText {
+  font-weight: 500;
 }
